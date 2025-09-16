@@ -1,0 +1,65 @@
+{
+  "category": "matrix-servers",
+  "created_date": "2025-09-15T22:48:57.443507",
+  "default_ports": [
+    80,
+    443,
+    2048,
+    8008
+  ],
+  "dependencies": [
+    "postgresql"
+  ],
+  "description": "Dendrite is a free and open-source Matrix Server. Second-generation Matrix homeserver",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/matrix-servers/dendrite",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/matrix-servers/dendrite",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.443546",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "dendrite",
+  "repository_url": "https://github.com/howtomgr/dendrite",
+  "spec_version": "2.0",
+  "subcategory": "matrix-servers",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "matrix-servers",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "Dendrite Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/matrix-servers/dendrite"
+}
